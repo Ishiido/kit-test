@@ -6,4 +6,4 @@ is triggered by the command "mvn clean package" in the root of the checked out k
 There should be further investigations concerning the generation of UML diagrams as part of the JavaDoc-generation. Many of the 
 UML diagrams provided in the documentation just seem to illustrate the results of the JavaDoc generation.
 
-There seem to be a lot of projects that cover the subject of UML generation. EX.: [generate UMLs in JavaDoc autiomatically](http://gochev.blogspot.de/2011/03/generate-javadoc-with-uml-diagrams.html)  
+There seem to be a lot of projects that cover the subject of UML generation. EX.: [generate UMLs in JavaDoc automatically](http://gochev.blogspot.de/2011/03/generate-javadoc-with-uml-diagrams.html)  
