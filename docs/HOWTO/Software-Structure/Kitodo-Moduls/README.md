@@ -1,5 +1,7 @@
 # Kitodo-Moduls
 
+_Is "moduls" used synonymoulsy with "interface" ?_ 
+
 Contains documents explaing the logic of modules in Kitodo. 
 
 The docs especially explain :
