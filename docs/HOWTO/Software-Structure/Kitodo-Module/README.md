@@ -6,6 +6,6 @@ The docs especially explain :
 
 * backend parts of modules (and its technologies)
 * frontend parts of modules (and its technologies)
-* information on "Modulanbindung" we find [here](https://intranet.slub-dresden.de/display/KITPROD/Modulanbindung)
+* information on "Modulanbindung" like that we find [here](https://intranet.slub-dresden.de/display/KITPROD/Modulanbindung)
  
  
